@@ -1,0 +1,140 @@
+[
+    {
+     "id": 1,
+     "model": "32'Aquila",
+     "type": "Cockpit cover",
+     "material": "Sunbrella",
+     "color": "Cadet Grey",
+     "description": "Full Cockpit cover,Windshield to Aft,2 vents for air flow and 3 poles for structure.Snaps fwd and sides and Stay-puts for aft.",
+     "image": "1.gpg"
+     
+    },
+
+
+    {
+
+
+        "id": 2,
+        "model": "50' Dutch Craft",
+        "type": "Fwd Sunbed",
+        "material": "Sunbrella Horizon Vinyl",
+        "color": "Captain White/Sand",
+        "description": "Fwd Sunbed with wedged head-rest",
+        "image": "2.jpg"
+        
+        
+       },
+
+
+
+
+
+       {
+
+
+        "id": 3,
+        "model": "87' Johnson",
+        "type": "Aft Sunshade",
+        "material": "Soltis 92",
+        "color": "Snow White",
+        "description": "Aft Sunshade for dinette area.Snaps on bottom and zip-off rope on top.",
+        "image": "3.jpg"
+        
+        
+       },
+
+
+       {
+
+
+        "id": 4,
+        "model": "65' Azimut",
+        "type": "Bimini top",
+        "material": "Stamoid Top",
+        "color": "Snow White",
+        "description": "Flybridge Bimini top ,6 bows",
+        "image": "4.jpg"
+        
+        
+       },
+
+      {
+
+
+       "id": 5,
+       "model": "25' SH",
+       "type": "Center Console Curtain cover",
+       "material": "Stamoid Top",
+       "color": "Ocean Blue",
+       "description": "Center console cover with straps on the top.Cover is separated FWD/AFT from 2 zippers",
+       "image": "5,jpg"
+
+
+      },
+
+      {
+
+
+        "id": 6,
+        "model": "36' Yellowfin",
+        "type": "Full Boat Cover",
+        "material": "Sunbrella",
+        "color": "Cadet Grey",
+        "description": "Hull Full boat cover with sandbags and straps on top.",
+        "image": "6.JPG"
+ 
+ 
+       },
+
+
+
+       {
+
+
+        "id": 7,
+        "model": "35' Donzi",
+        "type": "Captain Seats",
+        "material": "Advanced Marine Vinyl",
+        "color": "White Cap/Midnight Blue",
+        "description": "Captain Seats with adjustable height ",
+        "image": "7.JPG"
+ 
+ 
+       },
+
+       {
+
+
+        "id": 8,
+        "model": "60' Fairline ",
+        "type": "Captain Seats",
+        "material": "Advanced Marine Vinyl",
+        "color": "Brilliant White/Polaris",
+        "description": "Captain Seats for flybridge",
+        "image": "Recaro.JPG"
+ 
+ 
+       },
+
+       {
+
+
+        "id": 9,
+        "model": "37' Bosto Whaler Outrage",
+        "type": "Captain Seats",
+        "material": "Enduratex Vinyl",
+        "color": "Parchment/Cream",
+        "description": "Triple Captain Seats with arm-rest",
+         "image": "9.JPG"
+ 
+ 
+       }
+
+
+
+
+    ]
+
+
+
+
