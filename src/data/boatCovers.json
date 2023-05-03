@@ -6,11 +6,9 @@
      "material": "Sunbrella",
      "color": "Cadet Grey",
      "description": "Full Cockpit cover,Windshield to Aft,2 vents for air flow and 3 poles for structure.Snaps fwd and sides and Stay-puts for aft.",
-     "image": "1.gpg"
+     "image": "/images/1.jpg"
      
     },
-
-
     {
 
 
@@ -20,7 +18,7 @@
         "material": "Sunbrella Horizon Vinyl",
         "color": "Captain White/Sand",
         "description": "Fwd Sunbed with wedged head-rest",
-        "image": "2.jpg"
+        "image": "/images/2.jpg"
         
         
        },
@@ -38,7 +36,7 @@
         "material": "Soltis 92",
         "color": "Snow White",
         "description": "Aft Sunshade for dinette area.Snaps on bottom and zip-off rope on top.",
-        "image": "3.jpg"
+        "image": "/images/3.jpg"
         
         
        },
@@ -53,7 +51,7 @@
         "material": "Stamoid Top",
         "color": "Snow White",
         "description": "Flybridge Bimini top ,6 bows",
-        "image": "4.jpg"
+        "image": "/images/4.jpg"
         
         
        },
@@ -67,7 +65,7 @@
        "material": "Stamoid Top",
        "color": "Ocean Blue",
        "description": "Center console cover with straps on the top.Cover is separated FWD/AFT from 2 zippers",
-       "image": "5,jpg"
+       "image": "/images/5.jpg"
 
 
       },
@@ -81,7 +79,7 @@
         "material": "Sunbrella",
         "color": "Cadet Grey",
         "description": "Hull Full boat cover with sandbags and straps on top.",
-        "image": "6.JPG"
+        "image": "/images/6.JPG"
  
  
        },
@@ -97,7 +95,7 @@
         "material": "Advanced Marine Vinyl",
         "color": "White Cap/Midnight Blue",
         "description": "Captain Seats with adjustable height ",
-        "image": "7.JPG"
+        "image": "/images/7.JPG"
  
  
        },
@@ -111,7 +109,7 @@
         "material": "Advanced Marine Vinyl",
         "color": "Brilliant White/Polaris",
         "description": "Captain Seats for flybridge",
-        "image": "Recaro.JPG"
+        "image": "/images/Recaro.JPG"
  
  
        },
@@ -125,7 +123,7 @@
         "material": "Enduratex Vinyl",
         "color": "Parchment/Cream",
         "description": "Triple Captain Seats with arm-rest",
-         "image": "9.JPG"
+         "image": "/images/9.JPG"
  
  
        }

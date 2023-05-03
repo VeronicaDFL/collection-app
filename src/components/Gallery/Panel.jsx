@@ -5,7 +5,9 @@ export default function Panel ({data: {id,model,type,material,color,description,
         <Col key={id} sm={10} md={6} lg={4}>
         <Card className= "p-3">
             <figure>
-                <img src={process.env.PUBLIC_URL + "images/"} alt="The Background" />
+                
+              {/* <img src={process.env.PUBLIC_URL + "images/1.jpg"} alt="The Background" /> */}
+              <Image src={image} alt="" fluid />
                
             </figure>
             <div className= "content">

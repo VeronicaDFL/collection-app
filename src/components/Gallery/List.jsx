@@ -1,7 +1,7 @@
 
 import { Container,Row ,Col} from "react-bootstrap";
 import Panel from "./Panel.jsx";
-import data from "../data/boatCovers.json";
+import data from "../../data/boatCovers.json";
 
 
 export default function List() {
